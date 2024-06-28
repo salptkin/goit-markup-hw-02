@@ -48,7 +48,7 @@ body {
 .header-ul .list .link {
    font-size: 16px;
    font-weight: 500;
-   line-height: 24px;
+   line-height: 1.5;
    letter-spacing: 0.02em;
    color: var(--dark);
    text-decoration: none;
