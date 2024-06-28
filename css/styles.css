@@ -120,6 +120,10 @@ body {
    color: var(--dark);
 }
 
+.list {
+   background-color: #FFFFFF;
+}
+
 .seciton-ul .list {
    background-color: var(--white-background);
 }
@@ -140,7 +144,7 @@ body {
 }
 
 .our-team {
-   background-color: var(--white-background);
+   background-color: var(--light);
 }
 
 .img {
