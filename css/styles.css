@@ -31,7 +31,7 @@ body {
    font-family: var(--font-family-logo);
    font-weight: 700;
    font-size: 18px;
-   line-height: 21px;
+   line-height: 1.17;
    letter-spacing: 0.03em;
    color: var(--primary-brand);
    text-transform: uppercase;
@@ -83,7 +83,7 @@ body {
 .hero-header {
    font-weight: 700;
    font-size: 56px;
-   line-height: 60px;
+   line-height: 1.07;
    text-align: center;
    letter-spacing: 0.02em;
    color: #FFFFFF;
@@ -113,7 +113,7 @@ body {
 .section-header {
    font-weight: 700;
    font-size: 36px;
-   line-height: 40px;
+   line-height: 1.11;
    text-align: center;
    letter-spacing: 0.02em;
    text-transform: capitalize;
@@ -173,5 +173,5 @@ body {
    font-size: 16px;
    line-height: 24px;
    letter-spacing: 0.02em;
-   color: var(--accent);
+   color: var(--light);
 }
